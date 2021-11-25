@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hp/Desktop/iTunes/app/src/main/res/drawable/ic_calendar.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Hp/Desktop/iTunes/app/src/main/res/drawable/ic_delete.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Hp/Desktop/iTunes/app/src/main/res/drawable/ic_home.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Hp/Desktop/iTunes/app/src/main/res/drawable/ic_person.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Hp/Desktop/iTunes/app/src/main/res/drawable/ic_share.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Hp/Desktop/iTunes/app/src/main/res/layout/activity_choosen.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Desktop/iTunes/app/src/main/res/layout/activity_detail.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Desktop/iTunes/app/src/main/res/layout/activity_ebook.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Desktop/iTunes/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Hp/Desktop/iTunes/app/src/main/res/layout/activity_pod_cast.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Desktop/iTunes/app/src/main/res/layout/activity_short_film.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Desktop/iTunes/app/src/main/res/layout/activity_software.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Desktop/iTunes/app/src/main/res/layout/activity_splah_screen.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/Hp/Desktop/iTunes/app/src/main/res/layout/activity_splash_screen.xml" value="0.24427083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.edanuryildirim.itunes">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/appstore"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ITunes">
+        <activity
+            android:name=".view.ui.ChoosenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.ui.DetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.queryui.EBookActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.queryui.ShortFilmActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.queryui.PodCastActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.queryui.SoftwareActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.splash.SplashScreen"
+            android:exported="true"
+            android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
